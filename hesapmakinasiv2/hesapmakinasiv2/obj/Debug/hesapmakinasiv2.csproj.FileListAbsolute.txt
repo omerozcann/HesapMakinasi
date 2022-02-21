@@ -1,0 +1,10 @@
+D:\Belgeler\Visual Studio 2019\Projects\hesapmakinasiv2\hesapmakinasiv2\bin\Debug\hesapmakinasiv2.exe.config
+D:\Belgeler\Visual Studio 2019\Projects\hesapmakinasiv2\hesapmakinasiv2\bin\Debug\hesapmakinasiv2.exe
+D:\Belgeler\Visual Studio 2019\Projects\hesapmakinasiv2\hesapmakinasiv2\bin\Debug\hesapmakinasiv2.pdb
+D:\Belgeler\Visual Studio 2019\Projects\hesapmakinasiv2\hesapmakinasiv2\obj\Debug\hesapmakinasiv2.csproj.AssemblyReference.cache
+D:\Belgeler\Visual Studio 2019\Projects\hesapmakinasiv2\hesapmakinasiv2\obj\Debug\hesapmakinasiv2.Form1.resources
+D:\Belgeler\Visual Studio 2019\Projects\hesapmakinasiv2\hesapmakinasiv2\obj\Debug\hesapmakinasiv2.Properties.Resources.resources
+D:\Belgeler\Visual Studio 2019\Projects\hesapmakinasiv2\hesapmakinasiv2\obj\Debug\hesapmakinasiv2.csproj.GenerateResource.cache
+D:\Belgeler\Visual Studio 2019\Projects\hesapmakinasiv2\hesapmakinasiv2\obj\Debug\hesapmakinasiv2.csproj.CoreCompileInputs.cache
+D:\Belgeler\Visual Studio 2019\Projects\hesapmakinasiv2\hesapmakinasiv2\obj\Debug\hesapmakinasiv2.exe
+D:\Belgeler\Visual Studio 2019\Projects\hesapmakinasiv2\hesapmakinasiv2\obj\Debug\hesapmakinasiv2.pdb
